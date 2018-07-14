@@ -1,0 +1,14 @@
+http://www.citizenshipcounts.ca/guide/regions1/canadas-5-regions
+
+https://www.jobbank.gc.ca/report-eng.do?lang=eng&noc=2173&area=9219&titleKeyword=software+engineer&regionKeyword=Toronto,Ontario&source=0&action=final
+
+http://noc.esdc.gc.ca/English/NOC/QuickSearch.aspx?ver=16&val65=software%20engineer
+
+http://noc.esdc.gc.ca/English/noc/welcome.aspx?ver=16
+
+http://noc.esdc.gc.ca/English/noc/Introduction.aspx?ver=16
+
+http://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3701
+
+https://www.jobbank.gc.ca/explorecareers.do
+
